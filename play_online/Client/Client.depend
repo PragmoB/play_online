@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1527122050 source:g:\c++ project\play_online\client\gotoxy.cpp
+	<iostream>
+	<windows.h>
+
+1529479998 source:g:\c++ project\play_online\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<json/json.h>
+	"Point.h"
+
+1528298280 g:\c++ project\play_online\client\pdu.h
+
+1527122050 source:h:\c++ project\play_online\client\gotoxy.cpp
+	<iostream>
+	<windows.h>
+
+1532174266 source:h:\c++ project\play_online\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<json/json.h>
+	<mmsystem.h>
+	"Point.h"
+	"textcolor.h"
+	"AttackEffect.h"
+	"Writers.h"
+	"Protocol_Types.h"
+
+1528298280 h:\c++ project\play_online\client\pdu.h
+
+1529846456 source:h:\c++ project\play_online\client\json\readjson.cpp
+	<json/json.h>
+	<cstring>
+
+1529241832 source:g:\c++ project\play_online\client\json\readjson.cpp
+	<json/json.h>
+
+1529242070 g:\c++ project\play_online\client\point.h
+
+1531924196 h:\c++ project\play_online\client\point.h
+
+1529479340 source:g:\c++ project\play_online\client\drawinterface.cpp
+	<iostream>
+
+1530417868 source:h:\c++ project\play_online\client\drawinterface.cpp
+	<iostream>
+	"textcolor.h"
+
+1530417868 source:f:\c++ project\play_online\client\drawinterface.cpp
+	<iostream>
+	"textcolor.h"
+
+1527122050 source:f:\c++ project\play_online\client\gotoxy.cpp
+	<iostream>
+	<windows.h>
+
+1529846456 source:f:\c++ project\play_online\client\json\readjson.cpp
+	<json/json.h>
+	<cstring>
+
+1532153944 source:f:\c++ project\play_online\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	<json/json.h>
+	<mmsystem.h>
+	"Point.h"
+	"textcolor.h"
+	"AttackEffect.h"
+	"Writers.h"
+	"Protocol_Types.h"
+
+1531924196 f:\c++ project\play_online\client\point.h
+
+1529684262 h:\c++ project\play_online\client\textcolor.h
+
+1529684280 source:h:\c++ project\play_online\client\textcolor.cpp
+	<windows.h>
+
+1532097080 source:h:\c++ project\play_online\client\attackeffect.cpp
+	<cstdio>
+	<json/json.h>
+	<windows.h>
+	"AttackEffect.h"
+	"WRITERS.H"
+
+1531489364 h:\c++ project\play_online\client\attackeffect.h
+	<string>
+
+1532097080 source:f:\c++ project\play_online\client\attackeffect.cpp
+	<cstdio>
+	<json/json.h>
+	<windows.h>
+	"AttackEffect.h"
+	"WRITERS.H"
+
+1529684280 source:f:\c++ project\play_online\client\textcolor.cpp
+	<windows.h>
+
+1529684262 f:\c++ project\play_online\client\textcolor.h
+
+1531489364 f:\c++ project\play_online\client\attackeffect.h
+	<string>
+
+1532097676 h:\c++ project\play_online\client\writers.h
+	<string>
+	<json/json.h>
+	"Point.h"
+
+1532171398 source:h:\c++ project\play_online\client\writers.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<string>
+	<cstdio>
+	<json/json.h>
+	"POINT.H"
+	"textcolor.h"
+	"WRITERS.H"
+
+1532097676 f:\c++ project\play_online\client\writers.h
+	<string>
+	<json/json.h>
+	"Point.h"
+
+1532153996 source:f:\c++ project\play_online\client\writers.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<string>
+	<cstdio>
+	<json/json.h>
+	"POINT.H"
+	"textcolor.h"
+	"WRITERS.H"
+
+1531481400 source:f:\c++ project\play_online\client\overwritestring.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1531481400 source:h:\c++ project\play_online\client\overwritestring.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1532154250 h:\c++ project\play_online\client\protocol_types.h
+
+1532149600 f:\c++ project\play_online\client\protocol_types.h
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\attackeffect.cpp
+	<cstdio>
+	"json/json.h"
+	<windows.h>
+	"AttackEffect.h"
+	"OverwriteString.cpp"
+	"WRITERS.H"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\attackeffect.h
+	<string>
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\writers.h
+	<string>
+	"json/json.h"
+	"Point.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\point.h
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\gotoxy.cpp
+	<iostream>
+	<windows.h>
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\json\readjson.cpp
+	"json.h"
+	<cstring>
+
+1592830759 source:d:\플래그모\myresults\c++ project\play_online\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string>
+	<vector>
+	<iterator>
+	<algorithm>
+	"json/json.h"
+	<mmsystem.h>
+	"Point.h"
+	"textcolor.h"
+	"AttackEffect.h"
+	"Writers.h"
+	"Protocol_Types.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\textcolor.h
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\protocol_types.h
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\overwritestring.cpp
+	<iostream>
+	<string>
+	<cstring>
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\textcolor.cpp
+	<windows.h>
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\config.h
+	<cpptl/config.h>
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\forwards.h
+	"config.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\features.h
+	"forwards.h"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\json\writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1592582268 source:d:\플래그모\myresults\c++ project\play_online\client\writers.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+	<string>
+	<cstdio>
+	"json/json.h"
+	"POINT.H"
+	"textcolor.h"
+	"WRITERS.H"
+
+1592582268 d:\플래그모\myresults\c++ project\play_online\client\overwritestring.cpp
+	<iostream>
+	<string>
+	<cstring>
+
