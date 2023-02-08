@@ -88,7 +88,7 @@ void DrawInterface(string* target, const int max_x, const int min_x, const int m
     }
     target[max_y + 1][max_x+1] = '';
 
-	const char* comment = "Made By Pragmo. Copyright (c) All rights reserved.";
+	const char* comment = "Made By Pragmo";
     for(UINT i=0;i < strlen(comment);i++)
         target[min_y - 1][min_x + 3 + i] = comment[i];
 }
