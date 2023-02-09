@@ -1,5 +1,7 @@
 # play_online
 
+![플레이](https://user-images.githubusercontent.com/67177785/217720563-cd12acb8-163a-41e8-8210-d8a64a505951.gif)
+
 CLI 기반의 온라인 액션게임 예제입니다
 
 # 초기 설정
@@ -32,3 +34,7 @@ E로 공격합니다
 
 1. 상대방을 죽여 체력을 1 회복합니다
 2. 죽으면 탈락합니다
+
+# 개발 환경
+
+Visual Studio 2017
